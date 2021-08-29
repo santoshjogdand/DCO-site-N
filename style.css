@@ -26,3 +26,11 @@ li {
     min-height: 100%;
     z-index: -1;
   }
+  h1 {
+      z-index: -1;
+  }
+  div {
+      font-size: 75px;
+      color: azure;
+      font-weight: bold;
+  }
